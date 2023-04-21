@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\ConsoleApp17\ConsoleApp17\bin\Debug\net6.0\ClothesCollection.exe
+C:\Users\user\source\repos\ConsoleApp17\ConsoleApp17\bin\Debug\net6.0\ClothesCollection.deps.json
+C:\Users\user\source\repos\ConsoleApp17\ConsoleApp17\bin\Debug\net6.0\ClothesCollection.runtimeconfig.json
+C:\Users\user\source\repos\ConsoleApp17\ConsoleApp17\bin\Debug\net6.0\ClothesCollection.dll
+C:\Users\user\source\repos\ConsoleApp17\ConsoleApp17\bin\Debug\net6.0\ClothesCollection.pdb
+C:\Users\user\source\repos\ConsoleApp17\ConsoleApp17\obj\Debug\net6.0\ClothesCollection.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ConsoleApp17\ConsoleApp17\obj\Debug\net6.0\ClothesCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ConsoleApp17\ConsoleApp17\obj\Debug\net6.0\ClothesCollection.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ConsoleApp17\ConsoleApp17\obj\Debug\net6.0\ClothesCollection.AssemblyInfo.cs
+C:\Users\user\source\repos\ConsoleApp17\ConsoleApp17\obj\Debug\net6.0\ClothesCollection.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ConsoleApp17\ConsoleApp17\obj\Debug\net6.0\ClothesCollection.dll
+C:\Users\user\source\repos\ConsoleApp17\ConsoleApp17\obj\Debug\net6.0\refint\ClothesCollection.dll
+C:\Users\user\source\repos\ConsoleApp17\ConsoleApp17\obj\Debug\net6.0\ClothesCollection.pdb
+C:\Users\user\source\repos\ConsoleApp17\ConsoleApp17\obj\Debug\net6.0\ClothesCollection.genruntimeconfig.cache
+C:\Users\user\source\repos\ConsoleApp17\ConsoleApp17\obj\Debug\net6.0\ref\ClothesCollection.dll
